@@ -7,9 +7,9 @@
 - Reconstructing the absent user 
 ## Data analytics insight
 - Research questions
-- - Developing questions
-- - Methods to answer RQs
-- - Role of data analytics
+  - Developing questions
+  - Methods to answer RQs
+  - Role of data analytics
 - Data analytics configuration 
 - Findings 
 - Validating findings 

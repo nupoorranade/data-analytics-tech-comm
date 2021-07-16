@@ -13,11 +13,11 @@
 - Data analytics configuration 
 - Findings 
 - Validating findings 
--- Networked findings
+  - Networked findings
 ## Data analytics foresight
 - Role of data analytics in organizational networks
--- Content strategy
--- Customer support
+  - Content strategy
+  - Customer support
 - Project management 
 - Networked findings and responsibilities 
 ## Building bridges for data access (stakeholder collaboration)

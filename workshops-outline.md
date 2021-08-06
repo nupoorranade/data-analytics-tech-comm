@@ -5,6 +5,7 @@
 - Background: What is Data Analytics
 - Understanding data analytics for technical communication 
 - Reconstructing the absent user 
+  - Insert FoDL piece here - frontend, backend and data processing piece (showing and telling) 
 ## Data analytics insight
 - Research questions
   - Developing questions
